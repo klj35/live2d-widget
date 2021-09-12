@@ -3,7 +3,7 @@
 //const live2d_path = "/live2d-widget/";
 
 // const live2d_path = "../";
-const live2d_path = "https://cdn.jsdelivr.net/gh/klj35/live2d-widget@latest/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/klj35/live2d-widget@0.9.0/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
